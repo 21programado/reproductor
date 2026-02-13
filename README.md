@@ -5,7 +5,7 @@ Pequeño reproductor de archivos .wav desarrollado en Python.
 ## Descargar
 
 Ir a la sección Releases y descargar la última versión o con la url:
-https://github.com/21programado/reproductor/releases/latest
+https://github.com/21programado/reproductor/releases/latest y hacer clic en mini_reproductor.exe
 
 ## Cómo usar
 
